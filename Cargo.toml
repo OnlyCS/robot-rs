@@ -1,0 +1,3 @@
+[workspace]
+members = ["unnamed-2024", "wpilibcpp-build", "wpilib"]
+resolver = "2"
