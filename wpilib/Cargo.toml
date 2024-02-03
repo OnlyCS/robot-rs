@@ -1,5 +1,5 @@
 [package]
-name = "wpilib-bindgen"
+name = "wpilib"
 version = "0.1.0"
 edition = "2021"
 
